@@ -1,12 +1,12 @@
 # NoSQL-database
 Final project of Atypon training program 2022
 
-# Master project:
+# Master project [https://github.com/ahmaddrabkah/NoSQL-database/tree/master/Master]:
 Is the main point of the whole project it control all 
 the write processes done and connect client to the node. Also it is 
 responsible for creat Nodes as replicates.
 
-# Node project:
+# Node project [https://github.com/ahmaddrabkah/NoSQL-database/tree/master/Node]:
 Represent the backend server, its responsibilities 
 is to handle the client request read and write operations, the read 
 operation is done locally from the cache but if the operation is 
