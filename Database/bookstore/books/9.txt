@@ -1,0 +1,1 @@
+{"subject":"Programming","name":"Clean Code","description":"The clean code offers invaluable insights into code cleaning and software development. It has thorough, step-by-step explanations on cleaning, writing, and refactoring code. The programming book has a galore of practical examples about the how and why of writing clean code.","id":"9"}

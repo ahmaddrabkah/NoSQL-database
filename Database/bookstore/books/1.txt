@@ -1,0 +1,1 @@
+{"subject":"Action and Adventure","name":"Life of Pi","description":"The son of a zookeeper, Pi Patel has an encyclopedic knowledge of animal behavior and a fervent love of stories. When Pi is sixteen, his family emigrates from India to North America aboard a Japanese cargo ship, along with their zoo animals bound for new homes.","id":"1"}
